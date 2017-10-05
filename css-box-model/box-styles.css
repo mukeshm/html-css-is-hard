@@ -2,6 +2,24 @@ h1, p {
     background-color: #DDE0E3; /* Light grey */
 }
 
+h1 {
+    padding: 50px;
+}
+
+p {
+    /*   
+    
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px; 
+    
+    padding: 20px 10px;   Vertical  Horizontal 
+    
+    */
+    padding: 20px 0 20px 10px;  /* Top  Right  Bottom  Left */
+}
+
 em, strong {
     background-color: #B2D6FF; /* Light blue */
     display: inline;
