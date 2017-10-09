@@ -20,3 +20,8 @@
     width: 200px;
     margin: 20px auto;
   }
+
+  .call-to-action {
+    font-style: italic;
+    background-color: #EEB75A;    /* Yellow */
+  }
