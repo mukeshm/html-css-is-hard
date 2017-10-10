@@ -4,11 +4,14 @@
     box-sizing: border-box;
 }
 
+.container {
+    overflow: hidden;
+    background-color: #EAEDF0;
+}
+
 .page {
     width: 900px;
     margin: 0 auto;
-    overflow: hidden;
-    background-color: #EAEDF0;
 }
 
 .menu {
