@@ -18,3 +18,12 @@
     display: flex;
     justify-content: space-between; /* space-around, space-evenly */
 }
+
+.links {
+    display: flex;
+    justify-content: flex-end;
+}
+  
+.login {
+    margin-left: 20px;
+}
