@@ -169,6 +169,10 @@ nav a:visited:active {
   background-color: #3F7CC4;
 }
 
+/* This will only work in Firefox */
+em, strong {
+  font-synthesis: none;
+}
 
 @media only screen and (min-width: 580px) {
   .section {
